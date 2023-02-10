@@ -1,0 +1,15 @@
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/Exampless001_Console
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/Exampless001_Console.deps.json
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/Exampless001_Console.runtimeconfig.json
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/Exampless001_Console.dll
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/ref/Exampless001_Console.dll
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/bin/Debug/net6.0/Exampless001_Console.pdb
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.csproj.AssemblyReference.cache
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.AssemblyInfoInputs.cache
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.AssemblyInfo.cs
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.csproj.CoreCompileInputs.cache
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.dll
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/ref/Exampless001_Console.dll
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.pdb
+/home/ivan/Документы/lossonC#/Examples/Exampless001_Console/obj/Debug/net6.0/Exampless001_Console.genruntimeconfig.cache
